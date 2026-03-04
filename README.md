@@ -111,7 +111,10 @@ Saat pertama kali dijalankan, ARINA akan meminta namamu. Setelah itu, cukup keti
 
 ```
   ░█▀█░█▀▄░▀█▀░█▀█░█▀█
-  ...
+  ░█▀█░█▀▄░░█░░█░█░█▀█
+  ░▀░▀░▀░▀░▀▀▀░▀░▀░▀░▀  v2.0
+  AI Responsive Intelligent Network Assistant
+
 
   Halo! Aku ARINA 🤖 Siapa namamu?
 
