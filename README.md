@@ -25,18 +25,19 @@ git clone https://github.com/suryadi346-star/arina.git
 cd arina
 pip install -r requirements.txt
 python main.py
-
+```
 ## Di termux (Android)
-
+```bash
 # Clone repository
 pkg install git python
 git clone https://github.com/suryadi346-star/arina.git
 cd ~/arina
-
-# Jalankan installer
-bash install_termux.sh
+```
+- *Jalankan installer*
+`bash install_termux.sh`
 
 # Atau manual:
+```bash
 pip install -r requirements.txt
 python main.py
 ```
@@ -146,7 +147,7 @@ flake8 arina/
 
 ## 🧾 LICENSE
 
-** MIT License-see [LICENSE] for details.**
+**MIT License-see [LICENSE](https://github.com/suryadi346-star/arina/blob/e6d17a58fad756e65ca5b8f8bfc8531ffbd9af6c/LICENSE) for details.**
 
 > 💡 "Every expert was once a beginner. Keep learning!"
 > ARINA 🤖
