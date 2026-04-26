@@ -1,0 +1,13 @@
+# ARINA - Dependencies
+# Install: pip install -r requirements.txt
+
+# Core (semua opsional, fallback ke stdlib jika tidak terinstall)
+fuzzywuzzy>=0.18.0; python_version >= "3.8"
+python-Levenshtein>=0.21.0; python_version >= "3.8"
+
+# Termux compatibility
+android-preferences>=1.0.0; sys_platform == "android"
+
+# Optional: untuk model NLP sederhana
+# nltk>=3.8; python_version >= "3.8"
+
